@@ -4,22 +4,22 @@ export function User(){
         outherTitle: "This new-found knowledge may then be used by engineers to create new tools and machines.",
         userArr:[
             {
-                img:"./images/userimg/image1.png",
+                img:"./images/userImg/image1.png",
                 Name: "Nattasha",
                 proff:"Web Develper"
             },
             {
-                img:"./images/userimg/image2.png",
+                img:"./images/userImg/image2.png",
                 Name: "John Doe",
                 proff:"Web Develper"
             },
             {
-                img:"./images/userimg/image3.png",
+                img:"./images/userImg/image3.png",
                 Name: "Haris Milas",
                 proff:"Ceo & Co-Funder"
             },
             {
-                img:"./images/userimg/image4.png",
+                img:"./images/userImg/image4.png",
                 Name: "Nelson Mecoy",
                 proff:"Marketing Manager"
             }
