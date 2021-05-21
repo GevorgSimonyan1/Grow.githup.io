@@ -823,7 +823,8 @@ header{
     text-align: center;
     padding: 60px 0;
     grid-gap: 15px;
-    transition: 1s;
+
+
 
     .slider-block{
         position: relative;
@@ -833,6 +834,8 @@ header{
         min-height: 380px;
         border-radius: 15px;
         overflow: hidden;
+    
+      
         
         
         
@@ -845,15 +848,17 @@ header{
             height: 100%;
             left: 0;
             top: 0;
+            transition: 1s;
             
             .now-block{
                 display: flex;
                 flex-direction: column;
                 justify-content: center;
+ 
 
                 p{
                     color: rgba(0, 0, 0, 0.404);
-                    width: 60%;
+                    width: 80%;
                     margin: 0 auto;
                 }
                 .block-img-now{

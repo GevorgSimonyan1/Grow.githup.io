@@ -676,7 +676,6 @@ header .menu .header-right ul li:nth-child(1) a {
   text-align: center;
   padding: 60px 0;
   grid-gap: 15px;
-  transition: 1s;
 }
 .clients .slider-block {
   position: relative;
@@ -695,6 +694,7 @@ header .menu .header-right ul li:nth-child(1) a {
   height: 100%;
   left: 0;
   top: 0;
+  transition: 1s;
 }
 .clients .slider-block .slider .now-block {
   display: flex;
@@ -703,7 +703,7 @@ header .menu .header-right ul li:nth-child(1) a {
 }
 .clients .slider-block .slider .now-block p {
   color: rgba(0, 0, 0, 0.404);
-  width: 60%;
+  width: 80%;
   margin: 0 auto;
 }
 .clients .slider-block .slider .now-block .block-img-now img {

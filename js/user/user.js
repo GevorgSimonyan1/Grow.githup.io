@@ -9,17 +9,17 @@ export function User(){
                 proff:"Web Develper"
             },
             {
-                img:"/images/userimg/image2.png",
+                img:"./images/userimg/image2.png",
                 Name: "John Doe",
                 proff:"Web Develper"
             },
             {
-                img:"/images/userimg/image3.png",
+                img:"./images/userimg/image3.png",
                 Name: "Haris Milas",
                 proff:"Ceo & Co-Funder"
             },
             {
-                img:"/images/userimg/image4.png",
+                img:"./images/userimg/image4.png",
                 Name: "Nelson Mecoy",
                 proff:"Marketing Manager"
             }
